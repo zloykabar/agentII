@@ -4,7 +4,7 @@
  * и добавляет CORS-заголовки, чтобы браузер не блокировал ответ.
  *
  * Настройка через переменные окружения Worker'а (Settings → Variables):
- *   TARGET_URL     — куда пересылать (по умолчанию https://api.openai.com)
+ *   https://api.openai.com     — куда пересылать (по умолчанию https://api.openai.com)
  *   PROXY_SECRET   — секрет, который должен присылать клиент в заголовке X-Proxy-Secret
  */
 
